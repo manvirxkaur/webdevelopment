@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)https://www.rookiemag.com/2013/05/starlet/ -->
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" class="js grunticon grunticon history queryselector svg picture hashchange audio canvas video cssremunit mediaqueries displaytable display-table fontface cssvhunit cssvwunit svgasimg cssanimations bgpositionxy backgroundsize bgrepeatround bgrepeatspace boxsizing bgsizecover flexbox flexboxlegacy csstransitions matchmedia"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Rookie » Starlet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta name="application-name" content="Rookie">
+<meta property="author" content="Rachel Shukert">
+<meta property="article:author" content="Rachel Shukert">
+<link rel="stylesheet" href="./art1_files/categories.data.svg.css" media="all"><link rel="stylesheet" href="./art1_files/rookie-icons.data.svg.css" media="all"><script src="./art1_files/f.txt"></script><script src="./art1_files/f(1).txt"></script><script src="./art1_files/f(2).txt"></script><script src="./art1_files/pubads_impl_rendering_2019052302.js.download"></script><script src="./art1_files/rules-p-82dLtFWn2pWuc.js.download" async=""></script><script src="./art1_files/quant.js.download" async="" type="text/javascript"></script><script async="" type="text/javascript" src="./art1_files/gpt.js.download"></script><script type="text/javascript" async="" src="./art1_files/2f1dd0"></script><script async="" src="./art1_files/analytics.js.download"></script><script src="./art1_files/4te0ez6xONvspY2t_mprdAJwZ2Y.js.download"></script><script src="./art1_files/JNSb4ii5UbhnLYndbxl2Z8hRI_A.js.download"></script><link rel="apple-touch-icon" sizes="72x72" href="https://www.rookiemag.com/wp-content/themes/rookie/images/rookie-ipad-icon.png">
+<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.9/svg4everybody.min.js"></script>
+	<![endif]-->
+<script>
+/*! grunt-grunticon Stylesheet Loader - v2.1.2 | https://github.com/filamentgroup/grunticon | (c) 2015 Scott Jehl, Filament Group, Inc. | MIT license. */
+
+(function(e){function t(t,n,r,o){"use strict";function a(){for(var e,n=0;u.length>n;n++)u[n].href&&u[n].href.indexOf(t)>-1&&(e=!0);e?i.media=r||"all":setTimeout(a)}var i=e.document.createElement("link"),l=n||e.document.getElementsByTagName("script")[0],u=e.document.styleSheets;return i.rel="stylesheet",i.href=t,i.media="only x",i.onload=o||null,l.parentNode.insertBefore(i,l),a(),i}var n=function(r,o){"use strict";if(r&&3===r.length){var a=e.navigator,i=e.Image,l=!(!document.createElementNS||!document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||e.opera&&-1===a.userAgent.indexOf("Chrome")||-1!==a.userAgent.indexOf("Series40")),u=new i;u.onerror=function(){n.method="png",n.href=r[2],t(r[2])},u.onload=function(){var e=1===u.width&&1===u.height,a=r[e&&l?0:e?1:2];n.method=e&&l?"svg":e?"datapng":"png",n.href=a,t(a,null,null,o)},u.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",document.documentElement.className+=" grunticon"}};n.loadCSS=t,e.grunticon=n})(this);(function(e,t){"use strict";var n=t.document,r="grunticon:",o=function(e){if(n.attachEvent?"complete"===n.readyState:"loading"!==n.readyState)e();else{var t=!1;n.addEventListener("readystatechange",function(){t||(t=!0,e())},!1)}},a=function(e){return t.document.querySelector('link[href$="'+e+'"]')},c=function(e){var t,n,o,a,c,i,u={};if(t=e.sheet,!t)return u;n=t.cssRules?t.cssRules:t.rules;for(var l=0;n.length>l;l++)o=n[l].cssText,a=r+n[l].selectorText,c=o.split(");")[0].match(/US\-ASCII\,([^"']+)/),c&&c[1]&&(i=decodeURIComponent(c[1]),u[a]=i);return u},i=function(e){var t,o,a;o="data-grunticon-embed";for(var c in e)if(a=c.slice(r.length),t=n.querySelectorAll(a+"["+o+"]"),t.length)for(var i=0;t.length>i;i++)t[i].innerHTML=e[c],t[i].style.backgroundImage="none",t[i].removeAttribute(o);return t},u=function(t){"svg"===e.method&&o(function(){i(c(a(e.href))),"function"==typeof t&&t()})};e.embedIcons=i,e.getCSS=a,e.getIcons=c,e.ready=o,e.svgLoadedCallback=u,e.embedSVG=u})(grunticon,this);
+		var imgdir = '/wp-content/themes/rookie/dist/img/';
+		grunticon([imgdir+'categories/categories.data.svg.css', imgdir+'categories/categories.data.png.css', imgdir+'categories/categories.fallback.css']);
+		grunticon([imgdir+'icons/rookie-icons.data.svg.css', imgdir+'icons/rookie-icons.data.png.css', imgdir+'icons/rookie-icons.fallback.css']);
+	</script>
+<noscript>
+		<link href="/wp-content/themes/rookie/dist/img/icons/rookie-icons.fallback.css" rel="stylesheet" />
+		<link href="/wp-content/themes/rookie/dist/img/categories/categories.fallback.css" rel="stylesheet" />
+	</noscript>
+<link rel="preconnect" href="https://hello.myfonts.net/" crossorigin="">
+<link rel="canonical" href="https://www.rookiemag.com/2013/05/starlet/">
+<link rel="next" href="https://www.rookiemag.com/2013/05/starlet/2/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Starlet - Rookie">
+<meta property="og:description" content="Margaret knew she&#39;d eventually have to choose between who she was and who she longed to be.">
+<meta property="og:url" content="https://www.rookiemag.com/2013/05/starlet/">
+<meta property="og:site_name" content="Rookie">
+<meta property="article:tag" content="hollywood">
+<meta property="article:tag" content="parents">
+<meta property="article:tag" content="rachel shukert">
+<meta property="article:tag" content="strict parents">
+<meta property="article:tag" content="the &#39;30s">
+<meta property="article:section" content="Fiction">
+<meta property="article:published_time" content="2013-05-31T19:00:14-04:00">
+<meta property="article:modified_time" content="2014-02-07T20:52:23-05:00">
+<meta property="og:updated_time" content="2014-02-07T20:52:23-05:00">
+<meta property="og:image" content="https://www.rookiemag.com/wp-content/uploads/2013/05/1369990179shukertfeat.jpg">
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="225">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Margaret knew she&#39;d eventually have to choose between who she was and who she longed to be.">
+<meta name="twitter:title" content="Starlet - Rookie">
+<meta name="twitter:image" content="https://www.rookiemag.com/wp-content/uploads/2013/05/1369990179shukertfeat.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.rookiemag.com","sameAs":[],"@id":"https://www.rookiemag.com/#organization","name":"Rookie","logo":""}</script>
+<link rel="stylesheet" id="adobe-blank-css" href="./art1_files/adobe-blank.css" type="text/css" media="all">
+<link rel="stylesheet" id="global-css" href="./art1_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="jplayer-css" href="./art1_files/rookie.player.css" type="text/css" media="all">
+<script type="text/javascript" src="./art1_files/Larsseit.js.download" data-cfasync="true" async="async"></script>
+<script type="text/javascript">
+	var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();
+</script><style type="text/css">@font-face{font-family: Larsseit-Light;src:url(/wp-content/themes/rookie/dist/webfonts/2F1DD0_0_0.woff2)format("woff2");}@font-face{font-family: Larsseit-Medium;src:url(/wp-content/themes/rookie/dist/webfonts/2F1DD0_1_0.woff2)format("woff2");}</style>
+<script type="text/javascript">
+	var DFPGPTPassback=function(){var a={};return{slots:a,init:function(){var s=googletag.defineSlot;googletag.defineSlot=function(){var t=s.apply(this,arguments);return a[t.getSlotElementId()]=t,t}},passback:function(s,t){var e=document.getElementById(s+"__container__"),n=e.parentNode,r=n.id;a.hasOwnProperty(r)||(a[r]={});var o=a[r];o.hasOwnProperty("passbacks")||(o.passbacks=[]),o.passbacks.push(t),o.setTargeting("passback",o.passbacks),googletag.pubads().refresh([o])}}}();
+</script>
+<script type="text/javascript">
+	googletag.cmd.push(function() {
+		DFPGPTPassback.init();
+		googletag.defineSlot('/102186805/Desktop_Article_Marquee', [[728, 90], [970, 125], [970, 250]], 'div-gpt-ad-Desktop_Article_Marquee').defineSizeMapping(googletag.sizeMapping().addSize([0, 0], []).addSize([768, 0], [[728, 90]]).addSize([1024, 0], [[728, 90], [970, 125], [970, 250]]).build()).addService(googletag.pubads());
+		googletag.defineSlot('/102186805/Desktop_Article_300x250_300x600', [[300, 250], [300, 600]], 'div-gpt-ad-Desktop_Article_300x250_300x600').defineSizeMapping(googletag.sizeMapping().addSize([0, 0], []).addSize([768, 0], [[300, 250], [300, 600]]).build()).addService(googletag.pubads());
+		googletag.defineSlot('/102186805/Desktop_Article_Lower_728x90_970x90', [[728, 90], [970, 90]], 'div-gpt-ad-Desktop_Article_Lower_728x90_970x90').defineSizeMapping(googletag.sizeMapping().addSize([0, 0], []).addSize([768, 0], [[728, 90]]).addSize([1024, 0], [[728, 90], [970, 90]]).build()).addService(googletag.pubads());
+		googletag.defineSlot('/102186805/Mobile_Article_300x250', [300, 250], 'div-gpt-ad-Mobile_Article_300x250').defineSizeMapping(googletag.sizeMapping().addSize([0, 0], [[300, 250]]).addSize([768, 0], []).build()).addService(googletag.pubads());
+		googletag.defineSlot('/102186805/Mobile_Fixed_320x50', [320, 50], 'div-gpt-ad-Mobile_Fixed_320x50').defineSizeMapping(googletag.sizeMapping().addSize([0, 0], [[320, 50]]).addSize([768, 0], []).build()).addService(googletag.pubads());	
+		googletag.pubads().setTargeting('post_id', '50375');
+googletag.pubads().setTargeting('post_url', 'https://www.rookiemag.com/2013/05/starlet/');
+googletag.pubads().setTargeting('post_tags', ['hollywood', 'parents', 'rachel-shukert', 'strict-parents', 'the-30s']);
+googletag.pubads().setTargeting('post_cats', ['fiction']);
+	
+		// OPTIONAL ///////////////////
+		// uncomment this "test" line to get labeled, gray ads for testing purposes
+		// googletag.pubads().setTargeting('testing', 'true');
+	
+		googletag.pubads().setCentering(true);
+		// googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+	});
+</script>
+
+<link rel="stylesheet" href="data:text/css;charset=utf-8;base64,Y2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gewogIGRpc3BsYXk6IGJsb2NrOwogIGJhY2tncm91bmQ6ICM0NTQ4NGQ7CiAgY29sb3I6ICNmZmY7CiAgbGluZS1oZWlnaHQ6IDEuNDU7CiAgcG9zaXRpb246IGZpeGVkOwogIHotaW5kZXg6IDkwMDAwMDAwOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIHJpZ2h0OiAwOwogIHBhZGRpbmc6IC41ZW0gMWVtOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwogICAgIC1tb3otdXNlci1zZWxlY3Q6IG5vbmU7CiAgICAgIC1tcy11c2VyLXNlbGVjdDogbm9uZTsKICAgICAgICAgIHVzZXItc2VsZWN0OiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXVtkYXRhLXZpc2liaWxpdHk9ImhpZGRlbiJdIHsKICBkaXNwbGF5OiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXSBjbG91ZGZsYXJlLWFwcC1tZXNzYWdlIHsKICBkaXNwbGF5OiBibG9jazsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gYSB7CiAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7CiAgY29sb3I6ICNlYmViZjQ7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGE6aG92ZXIsCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGE6YWN0aXZlIHsKICBjb2xvcjogI2RiZGJlYjsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gY2xvdWRmbGFyZS1hcHAtY2xvc2UgewogIGRpc3BsYXk6IGJsb2NrOwogIGN1cnNvcjogcG9pbnRlcjsKICBmb250LXNpemU6IDEuNWVtOwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICByaWdodDogLjRlbTsKICB0b3A6IC4zNWVtOwogIGhlaWdodDogMWVtOwogIHdpZHRoOiAxZW07CiAgbGluZS1oZWlnaHQ6IDE7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGNsb3VkZmxhcmUtYXBwLWNsb3NlOmFjdGl2ZSB7CiAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTsKICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXSBjbG91ZGZsYXJlLWFwcC1jbG9zZTpob3ZlciB7CiAgb3BhY2l0eTogLjllbTsKICBjb2xvcjogI2ZmZjsKfQo="><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><link rel="preload" href="./art1_files/f(3).txt" as="script"><script type="text/javascript" src="./art1_files/f(3).txt"></script><link rel="preload" href="./art1_files/f(4).txt" as="script"><script type="text/javascript" src="./art1_files/f(4).txt"></script><script src="./art1_files/pubads_impl_2019052302.js.download" async=""></script><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-33/html/container.html"></head>
+<body itemscope="" itemtype="http://schema.org/WebPage" data-page-background="/wp-content/uploads/2017/09/1505074186SEPTEMBER-COLLAGE-KIT-4.jpg" class="post-template-default single single-post postid-50375 single-format-standard starletrookie" style="background-image: url(&quot;/wp-content/uploads/2017/09/1505074186SEPTEMBER-COLLAGE-KIT-4.jpg&quot;);">
+<div id="staging">This is an archive. This site is no longer being updated.</div>
+<div id="outer-wrapper">
+<div id="inner-wrapper">
+<nav class="mobilemenu-container" id="mobilemenu-container" aria-hidden="true">
+<ul class="mobilemenu-nav">
+<li class="archive issues"><a href="https://www.rookiemag.com/theme/">Issues</a></li>
+<li class="archive categories"><a href="https://www.rookiemag.com/category/">Categories</a></li>
+<li class="archive everything"><a href="https://www.rookiemag.com/archive/">Everything</a></li>
+<li class="about"><a href="https://www.rookiemag.com/us/">About Rookie</a></li>
+<li class="share">
+<a href="https://rookiemag.tumblr.com/" class="ico-tumblr replacetext" target="_blank">Tumblr</a>
+<a href="https://www.facebook.com/pages/ROOKIE/240625002639799" class="ico-facebook replacetext" target="_blank">Facebook</a>
+<a href="https://twitter.com/rookiemag" class="ico-twitter replacetext" target="_blank">Twitter</a>
+</li>
+</ul>
+</nav> <div id="page">
+<div id="article-ad-top">
+
+<div id="div-gpt-ad-Desktop_Article_Marquee" style="">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-Desktop_Article_Marquee'); });</script>
+<div id="google_ads_iframe_/102186805/Desktop_Article_Marquee_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 728px; height: 90px;"></div></div>
+</div>
+<nav class="mainmenu" id="mainmenu" aria-role="navigation">
+<header class="logo-wrap">
+<h1 class="header-logo"><a href="https://www.rookiemag.com/"><i class="icon rookie-icons-rookie-logo rookie-logo replacetext">Rookie</i></a></h1>
+</header>
+<div class="content-wrapper full-height mainmenu-nav-wrapper flex-wrapper">
+<ul class="mainmenu-links">
+<li class="only-mobile">
+<div id="mobilemenu-toggle" class="mobilemenu-toggle rookie-icons-menu-icon replacetext">Menu</div>
+</li>
+<li class="issues not-mobile"><a href="https://www.rookiemag.com/theme/">Issues</a></li>
+<li class="archive not-mobile categories"><a href="https://www.rookiemag.com/category/" id="mainmenu-categories-link">Categories</a></li>
+<li class="archive not-mobile everything"><a href="https://www.rookiemag.com/archive/">Everything</a></li>
+</ul>
+<ul id="mainmenu-categories-submenu" class="submenu not-mobile all-categories-list js-hidden">
+<li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/beauty/"><i class="icon replacetext cat-beauty small category">Beauty</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/books/"><i class="icon replacetext cat-books small category">Books</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/comics/"><i class="icon replacetext cat-comics small category">Comics</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/dear-diary/"><i class="icon replacetext cat-dear-diary small category">Dear Diary</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/everything-else/"><i class="icon replacetext cat-everything-else small category">Everything else</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/eye-candy/"><i class="icon replacetext cat-eye-candy small category">Eye Candy</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/fiction/"><i class="icon replacetext cat-fiction small category">Fiction</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/friendship/"><i class="icon replacetext cat-friendship small category">Friendship</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/fun/"><i class="icon replacetext cat-fun small category">Fun</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/live-through-this/"><i class="icon replacetext cat-live-through-this small category">Live Through This</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/movies-tv/"><i class="icon replacetext cat-movies-tv small category">Movies + TV</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/music/"><i class="icon replacetext cat-music small category">Music</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/poetry/"><i class="icon replacetext cat-poetry small category">Poetry</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/sex-love/"><i class="icon replacetext cat-sex-love small category">Sex + Love</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/style/"><i class="icon replacetext cat-style small category">Style</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/tech/"><i class="icon replacetext cat-tech small category">Tech</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/you-asked-it/"><i class="icon replacetext cat-you-asked-it small category">You Asked It</i></a></li><li class="categories-list-item">
+<a href="https://www.rookiemag.com/category/you-said-it/"><i class="icon replacetext cat-you-said-it small category">You Said It</i></a></li> </ul>
+<div class="mainmenu-actions not-mobile" id="mainmenu-actions">
+<ul class="nav-social">
+<li class="share instagram"><a href="https://instagram.com/rookiemag" target="_blank"><i class="icon rookie-icons-drawn-instagram replacetext">Instagram</i></a></li>
+<li class="share facebook"><a href="https://www.facebook.com/pages/ROOKIE/240625002639799" target="_blank"><i class="icon rookie-icons-drawn-facebook replacetext">Facebook</i></a>
+</li><li class="share twitter"><a href="https://twitter.com/rookiemag" target="_blank"><i class="icon rookie-icons-drawn-twitter replacetext">Twitter</i></a></li>
+<li class="share tumblr"><a href="https://rookiemag.tumblr.com/" target="_blank"><i class="icon rookie-icons-drawn-tumblr replacetext">Tumblr</i></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<main id="content" aria-role="main">
+<div class="content-wrapper">
+<div class="post-50375 post type-post status-publish format-standard has-post-thumbnail hentry category-fiction tag-hollywood tag-parents tag-rachel-shukert tag-strict-parents tag-the-30s theme-attention publish-schedule-after-school-special" id="p-50375">
+<article id="article-format-single" class="cf js-article-feature-image">
+<div class="article-theme cf">
+<a href="https://www.rookiemag.com/theme/attention/">Issue 21: <span class="theme-name">Attention</span></a> </div>
+<div id="article-feature-image"><div id="attachment_50413" style="width: 590px" class="wp-caption aligncenter"><a href="https://www.rookiemag.com/2013/05/starlet/shukertillo-2/" rel="attachment wp-att-50413"><img src="./art1_files/1370026967shukertillo-580x823.jpg" alt="kkkkkk" width="580" height="823" class="size-medium wp-image-50413" srcset="/wp-content/uploads/2013/05/1370026967shukertillo-580x823.jpg 580w, /wp-content/uploads/2013/05/1370026967shukertillo-140x198.jpg 140w, /wp-content/uploads/2013/05/1370026967shukertillo.jpg 685w" sizes="(max-width: 580px) 100vw, 580px"></a><p class="wp-caption-text">Illustration by <a href="https://www.rookiemag.com/author/marjainez">Marjainez</a>.</p></div></div>
+<h2 class="article-title">Starlet</h2>
+<div class="article-teaser"><p>Margaret knew she’d eventually have to choose between who she was and who she longed to be.</p>
+</div>
+<div class="article-meta">
+<span class="article-authors"><a href="https://www.rookiemag.com/author/rachelshukert/" title="Posts by Rachel Shukert" class="url fn" rel="author">Rachel Shukert</a></span>
+<span class="article-date"><a href="https://www.rookiemag.com/2013/05/31/" title="All posts from May 31st, 2013">05/31/2013 </a></span>
+</div><div id="sidebar" class="not-mobile">
+
+<div id="div-gpt-ad-Desktop_Article_300x250_300x600" style="">
+<script type="text/javascript"> 
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Desktop_Article_300x250_300x600'); }); 
+</script>
+<div id="google_ads_iframe_/102186805/Desktop_Article_300x250_300x600_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 300px; height: 250px;"></div></div>
+<div id="news-alert" style="border-color:#93EBCE;background-color:rgba(147,235,206, 0.15);">
+<h4 class="sidebar"></h4>
+<p>Rookie is <a href="https://www.rookiemag.com/2018/11/editors-letter-86/"> no longer publishing new content</a>, but we hope you'll continue to enjoy the <a href="https://www.rookiemag.com/theme/">archives</a>, or <a href="https://www.rookiemag.com/shop/">books</a>, and the community you've helped to create. Thank you for seven very special years! ✴</p>
+</div>
+<div id="whats-rookie">
+<h4 class="sidebar">About Rookie</h4>
+<p>Rookie is an online magazine and book series for teenagers. Each month, a different editorial theme drives the writing, photography, and artwork that we publish. Learn more about us <a title="Us" href="https://www.rookiemag.com/us/">here</a>, and find out how to submit your work <a title="Submissions" href="https://www.rookiemag.com/submit/">here</a>!</p>
+</div>
+
+<div class="sidebar-widget more-from more-from-category">
+<h2 class="more-from-header"><a href="https://www.rookiemag.com/category/fiction/">More from <strong>Fiction</strong></a></h2>
+<ul class="related-posts-list">
+<li class="post-preview related-post">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2000/12/from-here-to-violet-stardust-9/"><img src="./art1_files/1364434133Screen-Shot-2013-03-27-at-9.28.07-PM-140x105.png" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2013/03/1364434133Screen-Shot-2013-03-27-at-9.28.07-PM-140x105.png" width="140" height="105" alt="From Here to Violet Stardust" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2013/03/1364434133Screen-Shot-2013-03-27-at-9.28.07-PM-140x105.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="From Here to Violet Stardust" title="From Here to Violet Stardust" srcset="/wp-content/uploads/2013/03/1364434133Screen-Shot-2013-03-27-at-9.28.07-PM-140x105.png 140w, /wp-content/uploads/2013/03/1364434133Screen-Shot-2013-03-27-at-9.28.07-PM.png 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a><div class="related-post-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2000/12/from-here-to-violet-stardust-9/">From Here to Violet Stardust</a></h4>
+<span class="post-date">12/31/2000</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/lizarmstrong/" title="Posts by Liz Armstrong" class="url fn" rel="author">Liz Armstrong</a></span>
+</div>
+</li>
+<li class="post-preview related-post">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2000/10/how-to-kill-k-the-final-section/"><img src="./art1_files/1315878398bananas.webp" width="280" height="210" alt="How to Kill K, Part Two" title="How to Kill K, Part Two" class="attachment-thumbnail wp-post-image"></a><div class="related-post-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2000/10/how-to-kill-k-the-final-section/">How to Kill K, Part Two</a></h4>
+<span class="post-date">10/31/2000</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/maggiethrashauth/" title="Posts by Maggie Thrash" class="url fn" rel="author">Maggie Thrash</a></span>
+</div>
+</li>
+<li class="post-preview related-post">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2015/04/pleased-to-meet-me/"><img src="./art1_files/1429294456featttyhn-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2015/04/1429294456featttyhn-140x105.jpg" width="140" height="105" alt="Pleased to Meet Me" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2015/04/1429294456featttyhn-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Pleased to Meet Me" title="Pleased to Meet Me" srcset="/wp-content/uploads/2015/04/1429294456featttyhn-140x105.jpg 140w, /wp-content/uploads/2015/04/1429294456featttyhn.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a><div class="related-post-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2015/04/pleased-to-meet-me/">Pleased to Meet Me</a></h4>
+<span class="post-date">04/17/2015</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/pjbordeau/" title="Posts by Pixie Casey" class="url fn" rel="author">Pixie Casey</a></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="sidebar-widget more-from more-to-see">
+<h2 class="more-from-header">More to See</h2>
+<ul class="related-posts-list">
+<li class="post-preview related-post">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2015/08/shapeshifting/"><img src="./art1_files/14387470752-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2015/08/14387470752-140x105.jpg" width="140" height="105" alt="Shapeshifting" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2015/08/14387470752-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Shapeshifting" title="Shapeshifting" srcset="/wp-content/uploads/2015/08/14387470752-140x105.jpg 140w, /wp-content/uploads/2015/08/14387470752.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<div class="related-post-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2015/08/shapeshifting/">Shapeshifting</a></h4>
+<span class="post-date">08/05/2015</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/shriyasamavai/" title="Posts by Shriya Samavai" class="url fn" rel="author">Shriya Samavai</a></span>
+</div>
+</li>
+<li class="post-preview related-post">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2015/08/on-returning/"><img src="./art1_files/1440527197Cynthia-Upon-returning-Text-by-Karisma-Price-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2015/08/1440527197Cynthia-Upon-returning-Text-by-Karisma-Price-140x105.jpg" width="140" height="105" alt="On Returning" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2015/08/1440527197Cynthia-Upon-returning-Text-by-Karisma-Price-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="On Returning" title="On Returning" srcset="/wp-content/uploads/2015/08/1440527197Cynthia-Upon-returning-Text-by-Karisma-Price-140x105.jpg 140w, /wp-content/uploads/2015/08/1440527197Cynthia-Upon-returning-Text-by-Karisma-Price.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<div class="related-post-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2015/08/on-returning/">On Returning</a></h4>
+<span class="post-date">08/27/2015</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/karisma-deande-price/" title="Posts by Karisma Price" class="url fn" rel="author">Karisma Price</a></span>
+</div>
+</li>
+<li class="post-preview related-post">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2015/08/looking-around-not-up/"><img src="./art1_files/1440011019Slow-Hollows-collage-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2015/08/1440011019Slow-Hollows-collage-140x105.jpg" width="140" height="105" alt="Looking Around, Not Up" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2015/08/1440011019Slow-Hollows-collage-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Looking Around, Not Up" title="Looking Around, Not Up" srcset="/wp-content/uploads/2015/08/1440011019Slow-Hollows-collage-140x104.jpg 140w, /wp-content/uploads/2015/08/1440011019Slow-Hollows-collage-300x225.jpg 300w, /wp-content/uploads/2015/08/1440011019Slow-Hollows-collage.jpg 302w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<div class="related-post-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2015/08/looking-around-not-up/">Looking Around, Not Up</a></h4>
+<span class="post-date">08/19/2015</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/brianag/" title="Posts by Briana" class="url fn" rel="author">Briana</a></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="sidebar-widget more-from">
+<h2 class="more-from-header">Next Article</h2>
+<div class="post-preview related-post next-post-preview">
+<a class="related-post-thumbnail preview-image" href="https://www.rookiemag.com/2013/05/friday-playlist-been-hiding/"><img width="140" height="105" src="./art1_files/1369990994BEENHIDINGfeat-copy-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Friday Playlist: Been Hiding" srcset="/wp-content/uploads/2013/05/1369990994BEENHIDINGfeat-copy-140x105.jpg 140w, /wp-content/uploads/2013/05/1369990994BEENHIDINGfeat-copy.jpg 300w" sizes="(max-width: 140px) 100vw, 140px"></a>
+<div class="related-post-caption next-post-preview-caption">
+<h4 class="post-title"><a href="https://www.rookiemag.com/2013/05/friday-playlist-been-hiding/">Friday Playlist: Been Hiding</a></h4>
+<span class="post-date">05/31/2013</span>
+<span class="post-author"><a href="https://www.rookiemag.com/author/staffauthor/">Staff</a></span>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="post-content article-content">
+
+<p>Larry Julius lit himself a fresh cigarette and settled back against the creamy leather seat of the Rolls-Royce Phantom. It was a flashier car than he would normally have preferred, and certainly a mite too conspicuous out here in Pasadena, but that was the point. It was a car designed to intimidate. A car that said: “Don’t even bother to argue; you already know we’ve won.”</p>
+<p>God, it really was ridiculous. A man of his stature, second in command in all but name at the biggest studio in Hollywood, making an evening house call like some country doctor. But something had to be done. It had been almost a week now. A week of phone calls and messages and telegrams, and nobody had heard so much as a peep from this girl. Most of the hopeful young starlets counting on Larry to make all their dreams come true were not nearly so circumspect. Most of them, it was all he could do to keep them from stalking him at restaurants, or shipping themselves to his office in packing crates (and scaring his poor secretary to death), or hiding in his shower to jump out unexpectedly the second he dropped his robe.</p>
+<p>In a way, he almost welcomed the desperation; at least it showed that they were serious, that stardom was what they wanted and they’d do whatever it took to make it. There was nothing wrong with playing a little hard-to-get, but if you ran from the Big Bad Wolf too long, he just might get tired of the chase and move on. After all, this was Hollywood. If one Little Red Riding Hood slipped out of the wolf’s grasp, there was always another one coming down the path, brighter and younger and tastier than the one who came before.</p>
+<p>But this girl was different. The studio execs were all convinced she was the one they’d been looking for—the key to the film that was supposed to restore the reputation of Olympus Studios and get its budget back on track, the one everyone was predicting would be the biggest movie of 1939. Larry was happy to be proven right. He’d known the girl had something special from the moment he’d seen her sitting at the lunch counter at Schwab’s Pharmacy a few weeks earlier. Even with her schoolgirl sweater and her too-red lipstick, there’d been a kind of light around her.</p>
+<p>There was a satisfying crunch of pebbled gravel under the car’s wheels. Arthur was pulling into a long, curved drive.</p>
+<p>“We here, Arthur?” he asked his driver. </p>
+<p>“I reckon so.”</p>
+<p>Larry stuck his head out the window and peered at the house. Standard California Arts and Crafts. Respectable, not palatial. Nothing to keep her down on the farm if she had a mind to leave. “All right, Arthur. I’m going in.”</p>
+<p></p><center>***</center><p></p>
+<p>“Miss Margaret, I’m coming in.”</p>
+<p>“I wish you wouldn’t,” Margaret moaned. The housekeeper ignored her, as usual.</p>
+<p><em>How many times over the years has Emmeline found me like this?</em> she wondered. <em>Sprawled across the bed, face streaked with new tears and swollen with old ones? </em> They’d developed a standard operating procedure over the years: Emmeline wordlessly bringing up a tray of food, Margaret choking down bites until she was calm again, at which time Emmeline would mouth a couple of meaningless platitudes and put Margaret to bed. But this time the system had failed them. It seemed nothing could made her feel better. </p>
+<p>“When God closes a door, he always opens a window.” That was one of the things Emmeline liked to say. <em>But not this time</em>, Margaret thought. This time, when the door had slammed shut, she’d been left out in the cold. Her mother had barely spoken to her a week now, since the day Margaret skipped school and went to Olympus Studios for a screen test—something that she had dreamed of doing for as long as she could remember, and which she had been strictly forbidden to do. Margaret knew she was busted as soon as she walked through the door and saw her mother’s face. Her hand instinctively rose to touch the small bandage above her temple as images of that horrible afternoon flooded into her mind. The raised hand. The pain of the blow and the wet, warm trickle of blood on her forehead. And worst of all, the terrible look in her mother’s eyes. Not anger, not concern, not even sadness: it was at once all of those and greater still, a dawning of the awful knowledge that something between them had broken and could never be mended.</p>
+<p>“You haven’t touched your dinner,” said Emmeline.</p>
+<p>“I told you I wasn’t hungry.”</p>
+<p>Emmeline clucked her tongue. “Three days of meals you turn your nose up at, when there’s children starving in Europe.”</p>
+<p>“So send them to the starving children,” Margaret said. “Is that why you came up here? To see if I choked down any of your meatloaf?”</p>
+<p>“No, miss. I came to tell you there’s a gentleman downstairs wants to see you.”</p>
+<p>“What kind of a gentleman?” Coming from Emmeline, the term could signify anyone from a colleague of her father’s to Timmy Mulvaney, the six-year-old boy down the street she sometimes babysat.</p>
+<p>“He didn’t tell me anything, Miss Margaret. Not even his name. But I overheard him say something about the movies.”</p>
+<p></p><center>***</center><p></p>
+<p>Fifteen minutes later, Margaret left her bedroom for the first time in a week. The faint shadow of bruising around her eye had been carefully powdered away. Emmeline had fixed her part so that the bandage her temple was hidden by the fall of her hair. She had changed out of her dirty pajamas into the simple gray dress with the little white collar that her friend Doris said made her look like a French orphan. The idea was to descend the stairs looking beautiful and somber and unforgiving. Like Diana Chesterfield in <em>Vengeance Is a Woman</em>, when she realized her evil fiancé had secretly embezzled her inheritance while plotting to murder her. <em>Except this is my own movie</em>, Margaret thought. She could barely wait to see how it would turn out.</p>
+</div>
+<div class="post-paging">
+<div class="post-paging-nums nums"> <span class="page-num">1</span> <a href="https://www.rookiemag.com/2013/05/starlet/2/"><span class="page-num">2</span></a> <a href="https://www.rookiemag.com/2013/05/starlet/3/"><span class="page-num">3</span></a></div><div class="post-paging-next next"><a href="https://www.rookiemag.com/2013/05/starlet/2/">Next →</a></div> </div>
+<aside id="after-post" class="cf"> <div class="article-tags"><a href="https://www.rookiemag.com/tag/hollywood/" rel="tag">hollywood</a> <a href="https://www.rookiemag.com/tag/parents/" rel="tag">parents</a> <a href="https://www.rookiemag.com/tag/rachel-shukert/" rel="tag">rachel shukert</a> <a href="https://www.rookiemag.com/tag/strict-parents/" rel="tag">strict parents</a> <a href="https://www.rookiemag.com/tag/the-30s/" rel="tag">the '30s</a></div>
+<div class="social-media post-article-social">
+<header class="section-header">Share:</header>
+<ul class="social-media-links post-article-social-links">
+<li><a class="replacetext icon rookie-icons-circle-twitter" data-height="275" data-width="575" href="https://twitter.com/intent/tweet?text=Starlet+%2F%3Fp%3D50375+from+%40RookieMag&amp;related=rookiemag" data-lang="en" data-related="rookiemag" target="_blank" title="Share on Twitter" onclick="_gaq.push([&#39;_trackSocial&#39;, &#39;twitter&#39;, &#39;tweet&#39;, &#39;/2013/05/starlet/&#39;]);">Twitter</a></li>
+<li><a class="replacetext icon rookie-icons-circle-tumblr" data-height="500" data-width="300" href="https://www.tumblr.com/share/link?url=%2F%3Fp%3D50375&amp;name=Starlet&amp;description=Margaret+knew+she%27d+eventually+have+to+choose+between+who+she+was+and+who+she+longed+to+be." title="Share on Tumblr" onclick="_gaq.push([&#39;_trackSocial&#39;, &#39;tumblr&#39;, &#39;tumble&#39;, &#39;/2013/05/starlet/&#39;]);">Tumblr</a></li>
+<li><a class="replacetext icon rookie-icons-circle-facebook" data-height="275" data-width="500" href="https://www.facebook.com/sharer.php?u=/?p=50375" title="Share on Facebook" onclick="_gaq.push([&#39;_trackSocial&#39;, &#39;facebook&#39;, &#39;share&#39;, &#39;/2013/05/starlet/&#39;]);">Facebook</a></li>
+<li><a class="replacetext icon rookie-icons-circle-pinterest" onclick="_gaq.push([&#39;_trackSocial&#39;, &#39;pinterest&#39;, &#39;pin&#39;, &#39;/2013/05/starlet/&#39;]);" href="https://pinterest.com/pin/create/button/?media=/wp-content/uploads/2013/05/1369990179shukertfeat.jpg&amp;url=/2013/05/starlet/">Pin It</a></li>
+</ul>
+</div>
+
+<div id="div-gpt-ad-Mobile_Article_300x250" style="display: none;"></div>
+<div id="related-posts" class="related-posts">
+<h3>Related Articles</h3>
+<ul class="related-posts-list">
+<li class="related-post">
+<a href="https://www.rookiemag.com/2013/03/creative-differences/"><img src="./art1_files/1364200286klausnerexcfeat2-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2013/03/1364200286klausnerexcfeat2-140x105.jpg" width="140" height="105" alt="Creative Differences" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2013/03/1364200286klausnerexcfeat2-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Creative Differences" srcset="/wp-content/uploads/2013/03/1364200286klausnerexcfeat2-140x105.jpg 140w, /wp-content/uploads/2013/03/1364200286klausnerexcfeat2.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2013/03/creative-differences/">Creative Differences</a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2013/01/the-last-debutantes/"><img src="./art1_files/1359542623sandydebsfeat-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2013/01/1359542623sandydebsfeat-140x105.jpg" width="140" height="105" alt="The Last Debutantes" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2013/01/1359542623sandydebsfeat-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="The Last Debutantes" srcset="/wp-content/uploads/2013/01/1359542623sandydebsfeat-140x105.jpg 140w, /wp-content/uploads/2013/01/1359542623sandydebsfeat.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2013/01/the-last-debutantes/">The Last Debutantes</a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2012/11/literally-the-best-thing-ever-hedy-lamarr/"><img src="./art1_files/1351725398hedyFEAT-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2012/11/1351725398hedyFEAT-140x105.jpg" width="140" height="105" alt="Literally the Best Thing Ever: Hedy Lamarr" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2012/11/1351725398hedyFEAT-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Literally the Best Thing Ever: Hedy Lamarr" srcset="/wp-content/uploads/2012/11/1351725398hedyFEAT-140x106.jpg 140w, /wp-content/uploads/2012/11/1351725398hedyFEAT-300x225.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2012/11/literally-the-best-thing-ever-hedy-lamarr/">Literally the Best Thing Ever: Hedy Lamarr</a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2012/09/a-star-is-born/"><img src="./art1_files/1348781875LauraLamont_CarreRookieFEAT-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2012/09/1348781875LauraLamont_CarreRookieFEAT-140x105.jpg" width="140" height="105" alt="A Star Is Born" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2012/09/1348781875LauraLamont_CarreRookieFEAT-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="A Star Is Born" srcset="/wp-content/uploads/2012/09/1348781875LauraLamont_CarreRookieFEAT-140x105.jpg 140w, /wp-content/uploads/2012/09/1348781875LauraLamont_CarreRookieFEAT-300x225.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2012/09/a-star-is-born/">A Star Is Born</a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2012/09/literally-the-best-thing-ever-edith-head/"><img src="./art1_files/1348173491edithheadFEAT-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2012/09/1348173491edithheadFEAT-140x105.jpg" width="140" height="105" alt="Literally the Best Thing Ever: Edith Head " style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2012/09/1348173491edithheadFEAT-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Literally the Best Thing Ever: Edith Head " srcset="/wp-content/uploads/2012/09/1348173491edithheadFEAT-140x105.jpg 140w, /wp-content/uploads/2012/09/1348173491edithheadFEAT-300x225.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2012/09/literally-the-best-thing-ever-edith-head/">Literally the Best Thing Ever: Edith Head </a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2012/09/movie-star-memoirs/"><img src="./art1_files/1348266638104_8016-140x105.jpeg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2012/09/1348266638104_8016-140x105.jpeg" width="140" height="105" alt="Literally the Best Thing Ever: Movie-Star Memoirs" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2012/09/1348266638104_8016-140x105.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Literally the Best Thing Ever: Movie-Star Memoirs" srcset="/wp-content/uploads/2012/09/1348266638104_8016-140x105.jpeg 140w, /wp-content/uploads/2012/09/1348266638104_8016.jpeg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2012/09/movie-star-memoirs/">Literally the Best Thing Ever: Movie-Star Memoirs</a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2012/07/cutting-the-ties-that-bind/"><img src="./art1_files/1341002303danielleFEAT-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2012/06/1341002303danielleFEAT-140x105.jpg" width="140" height="105" alt="Cutting the Ties That Bind" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2012/06/1341002303danielleFEAT-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Cutting the Ties That Bind" srcset="/wp-content/uploads/2012/06/1341002303danielleFEAT-140x105.jpg 140w, /wp-content/uploads/2012/06/1341002303danielleFEAT-300x225.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2012/07/cutting-the-ties-that-bind/">Cutting the Ties That Bind</a></h4>
+</li>
+<li class="related-post">
+<a href="https://www.rookiemag.com/2012/06/ltbte-hollywood-mysteries/"><img src="./art1_files/1340251760feathwoodmysteries-140x105.jpg" class="lazy attachment-thumbnail size-thumbnail wp-post-image" data-original="/wp-content/uploads/2012/06/1340251760feathwoodmysteries-140x105.jpg" width="140" height="105" alt="Literally the Best Thing Ever: Hollywood Mysteries" style="display: block;"><noscript><img width="140" height="105" src="/wp-content/uploads/2012/06/1340251760feathwoodmysteries-140x105.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" title="Literally the Best Thing Ever: Hollywood Mysteries" srcset="/wp-content/uploads/2012/06/1340251760feathwoodmysteries-140x105.jpg 140w, /wp-content/uploads/2012/06/1340251760feathwoodmysteries.jpg 300w" sizes="(max-width: 140px) 100vw, 140px" /></noscript></a>
+<h4 class="related-post-title"><a href="https://www.rookiemag.com/2012/06/ltbte-hollywood-mysteries/">Literally the Best Thing Ever: Hollywood Mysteries</a></h4>
+</li>
+</ul>
+</div>
+<div id="comments">
+<h3 id="page-comments-toggle" class="more-link"><a href="https://www.rookiemag.com/2013/05/starlet/#comments"><span class="action-name">Show</span> <span>10 Comments</span></a></h3>
+<ul id="comments-list" class="comments-list js-hidden">
+<li class="comment byuser comment-author-plainlysophie even thread-even depth-1 subscriber approved" id="comment-59359">
+<span class="comment-meta">
+<span class="comment-author">Sophie ❤</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">3:18 PM</span>
+</span>
+<p>I LOVED THIS! This is the first time, I think, that I saw a story on Rookie- and you should definitely do it again!</p>
+<p>-Sophie</p>
+<p></p>
+<ul class="children">
+<li class="comment byuser comment-author-maddy odd alt depth-2 subscriber approved" id="comment-59364">
+<span class="comment-meta">
+<span class="comment-author">Maddy</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">3:50 PM</span>
+</span>
+<p>Nope! https://www.rookiemag.com/category/fiction/</p>
+</li>
+</ul>
+</li>
+<li class="comment byuser comment-author-alyssaurus even thread-odd thread-alt depth-1 subscriber approved" id="comment-59361">
+<span class="comment-meta">
+<span class="comment-author">Alyssaurus</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">3:34 PM</span>
+</span>
+<p>Aah, Starstruck!!! I LOVED this book. This part is so good, but everyone should read the whole thing. </p>
+</li>
+<li class="comment byuser comment-author-cerise odd alt thread-even depth-1 subscriber approved" id="comment-59365">
+<span class="comment-meta">
+<span class="comment-author">Cerise</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">3:51 PM</span>
+</span>
+<p>OH MY GOODNESS. That was SO GOOD. And it’s a BOOK?? You have NO IDEA how happy that makes me! </p>
+<p>Now to find a copy…</p>
+<p>PS Please keep writing! That was wonderful. &lt;3</p>
+<ul class="children">
+<li class="comment byuser comment-author-emmie even depth-2 subscriber approved" id="comment-59368">
+<span class="comment-meta">
+<span class="comment-author">Emmie</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">5:56 PM</span>
+</span>
+<p>YES omg omg a book? I need to read this!</p>
+</li>
+</ul>
+</li>
+<li class="comment byuser comment-author-decemberflower odd alt thread-odd thread-alt depth-1 subscriber approved" id="comment-59367">
+<span class="comment-meta">
+<span class="comment-author">madgaymags</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">4:43 PM</span>
+</span>
+<p>Can you guys have Rachel Shukert write for you more often?! She is epic! The Smash recaps, anyone?!</p>
+</li>
+<li class="comment byuser comment-author-daisyauthority even thread-even depth-1 subscriber approved" id="comment-59372">
+<span class="comment-meta">
+<span class="comment-author">daisyauthority</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">8:40 PM</span>
+</span>
+<p>Ohmygosh that was awesome!!!!!!!!!!!And it’s a book?! Thank you Rookie+Rachel Shukert~</p>
+</li>
+<li class="comment byuser comment-author-loonylizzy odd alt thread-odd thread-alt depth-1 subscriber approved" id="comment-59379">
+<span class="comment-meta">
+<span class="comment-author">loonylizzy</span>
+<span class="comment-date">May 31st, 2013</span>
+<span class="comment-time">11:26 PM</span>
+</span>
+<p>ahhh this is brilliant!!! i’m so checking out the book!!!!</p>
+</li>
+<li class="comment byuser comment-author-anianhai even thread-even depth-1 subscriber approved" id="comment-59408">
+<span class="comment-meta">
+<span class="comment-author">ani Saakana</span>
+<span class="comment-date">June 1st, 2013</span>
+<span class="comment-time">11:13 AM</span>
+</span>
+<p>amazing!<br>
+rejoicedsaint.com</p>
+</li>
+<li class="comment byuser comment-author-ratiorae odd alt thread-odd thread-alt depth-1 subscriber approved" id="comment-70642">
+<span class="comment-meta">
+<span class="comment-author">RatioRae</span>
+<span class="comment-date">November 1st, 2013</span>
+<span class="comment-time">5:54 AM</span>
+</span>
+<p>Just read this book, can’t wait to read the next. :)</p>
+</li>
+</ul>
+</div>
+</aside>
+</article>
+</div>
+</div>
+</main>
+<div id="footer-ad" class="ad ad-btf footer-ad" style="">
+<div id="div-gpt-ad-Desktop_Article_Lower_728x90_970x90" style="">
+<script type="text/javascript"> 
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Desktop_Article_Lower_728x90_970x90'); }); 
+</script>
+<div id="google_ads_iframe_/102186805/Desktop_Article_Lower_728x90_970x90_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 728px; height: 90px;"></div></div></div>
+<footer id="footer" class="main-footer">
+<nav class="footer-major not-mobile">
+<div class="column">
+<a href="https://www.rookiemag.com/"><i class="icon footer-major-logo rookie-icons-rookie-logo-gray replacetext">Rookie</i></a>
+</div>
+<div class="column align-center">
+<a href="https://www.rookiemag.com/"><i class="icon rookie-icons-footer-r-heart rookie-heart"></i></a>
+</div>
+<div class="column align-right footer-major-social">
+<div class="sticker rainbow"></div>
+<ul class="nav-social">
+<li><a href="https://instagram.com/rookiemag"><i class="icon rookie-icons-drawn-instagram replacetext">Instagram</i></a></li>
+<li><a href="https://www.facebook.com/pages/ROOKIE/240625002639799"><i class="icon rookie-icons-drawn-facebook replacetext">Facebook</i></a></li>
+<li><a href="https://twitter.com/rookiemag"><i class="icon rookie-icons-drawn-twitter replacetext">Twitter</i></a></li>
+<li><a href="https://rookiemag.tumblr.com/"><i class="icon rookie-icons-drawn-tumblr replacetext">Tumblr</i></a></li>
+</ul>
+</div>
+<div class="column-half align-left">
+<ul class="footer-major-nav-links"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://www.rookiemag.com/us/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://www.rookiemag.com/submit/">Submit</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="https://www.rookiemag.com/legal/">Legal</a></li>
+</ul>
+</div>
+<div class="column-half align-right copyright">
+<span class="nowrap">Copyright © 2011–2018 <a href="https://www.rookiemag.com/us/">Rookie</a>.</span>
+<span class="nowrap">All rights reserved.</span>
+</div>
+</nav>
+<nav class="footer-major only-mobile" aria-hidden="true">
+<div class="column-full">
+<a href="https://www.rookiemag.com/" class="footer-major-logo-link"><i class="icon footer-major-logo rookie-icons-rookie-logo-gray replacetext">Rookie</i></a>
+</div>
+<ul class="footer-major-nav-links">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://www.rookiemag.com/us/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://www.rookiemag.com/submit/">Submit</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="https://www.rookiemag.com/legal/">Legal</a></li>
+</ul>
+<ul class="footer-major-social nav-social">
+<li><a href="https://instagram.com/rookiemag"><i class="icon rookie-icons-drawn-instagram replacetext">Instagram</i></a></li>
+<li><a href="https://www.facebook.com/pages/ROOKIE/240625002639799"><i class="icon rookie-icons-drawn-facebook replacetext">Facebook</i></a></li>
+<li><a href="https://twitter.com/rookiemag"><i class="icon rookie-icons-drawn-twitter replacetext">Twitter</i></a></li>
+<li><a href="https://rookiemag.tumblr.com/"><i class="icon rookie-icons-drawn-tumblr replacetext">Tumblr</i></a></li>
+</ul>
+<div class="copyright">
+<span class="nowrap">Copyright © 2011–2018 <a href="https://www.rookiemag.com/us/">Rookie</a>.</span>
+<span class="nowrap">All rights reserved.</span>
+</div>
+</nav>
+</footer>
+<div class="footer-illustration-credit">
+<div class="wrapper">Illustration by Lucia S.</div>
+</div>
+</div>
+<script type="text/javascript" src="./art1_files/modernizr.rookie.min.js.download"></script>
+<script type="text/javascript" src="./art1_files/jquery.rookie.min.js.download"></script>
+<script type="text/javascript" src="./art1_files/plugins.min.js.download"></script>
+<script type="text/javascript" src="./art1_files/global.min.js.download"></script>
+<script type="text/javascript" src="./art1_files/jquery.jplayer.min.js.download" data-cfasync="true" async="async"></script>
+
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol === "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+  _qevents.push({
+    qacct:"p-82dLtFWn2pWuc"
+  });
+  </script>
+<noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-82dLtFWn2pWuc.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+
+<div id="pagemask"></div></div>
+
+<div id="div-gpt-ad-Mobile_Fixed_320x50" style="display: none;"></div>
+</div>
+
+</body></html>
